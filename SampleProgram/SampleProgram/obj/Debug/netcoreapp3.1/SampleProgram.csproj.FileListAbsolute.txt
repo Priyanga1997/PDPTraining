@@ -1,0 +1,14 @@
+D:\Training\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.csproj.AssemblyReference.cache
+D:\Training\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.AssemblyInfoInputs.cache
+D:\Training\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.AssemblyInfo.cs
+D:\Training\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.csproj.CoreCompileInputs.cache
+D:\Training\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.exe
+D:\Training\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.deps.json
+D:\Training\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.runtimeconfig.json
+D:\Training\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.runtimeconfig.dev.json
+D:\Training\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.dll
+D:\Training\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.pdb
+D:\Training\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.dll
+D:\Training\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.pdb
+D:\Training\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.genruntimeconfig.cache

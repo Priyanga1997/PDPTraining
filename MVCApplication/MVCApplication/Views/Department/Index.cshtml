@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MVCApplication.Models.Department>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Department Details</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Department No</th>
+            <th>Department Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in @Model)
+        {
+        <tr>
+            <td>@item.DepartmentNo</td>
+            <td>@item.DepartmentName</td>
+        </tr>
+        }
+    </tbody>
+</table>
+<a href="~/Department/Create">Create new department</a>
+
+
+
